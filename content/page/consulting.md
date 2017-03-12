@@ -1,8 +1,7 @@
 +++
-subtitle = "Tuxable Ltd : London, UK"
 title = "Consulting"
-nocomments = true
-bigimg = ""
+subtitle = "Tuxable Ltd : London, UK"
+comments = false
 +++
 
 I run an Embedded Linux Consulting and Contracting company called Tuxable. More

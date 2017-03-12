@@ -5,7 +5,7 @@ menu = ""
 Categories = ["Boards","Tinker"]
 Tags = ["kernel","mainline","tinker"]
 Description = "Building mainline Linux for the ASUS Tinker board"
-
+comments = true
 +++
 
 The ASUS Tinker board can boot mainline linux without any additional

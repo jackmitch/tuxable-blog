@@ -9,9 +9,14 @@ disqusShortname = "jackmitchblog"
 
 [Params]
   subtitle = "Penguin & Chips"
-  logo = "images/tuxable-logo.png"
+  logo = "images/tux-yellow.png"
   favicon = "favicon.ico"
   commit = false
+  dateFormat = "January 2, 2006"
+
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
+  desc = "Triangle"
 
 [Author]
   name = "Jack Mitchell"

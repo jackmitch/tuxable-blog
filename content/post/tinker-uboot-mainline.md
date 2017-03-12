@@ -5,7 +5,7 @@ Tags = ["mainline","uboot","tinker"]
 Description = "Booting mainline uboot on the ASUS Tinker board"
 date = "2017-03-05T12:00:00Z"
 title = "Mainline UBoot on the ASUS Tinker Board"
-
+comments = true
 +++
 
 The ASUS Tinker board can boot mainline u-boot with a couple of pending

@@ -6,6 +6,7 @@ Categories = ["Boards","Tinker"]
 Tags = ["tinker", "devboard"]
 Description = ""
 featuredImage = "/images/tinkerboard.jpg"
+comments = true
 +++
 
 The ASUS Tinkerboard is yet another ARM based, hobbist orientated development
